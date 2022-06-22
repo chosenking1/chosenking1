@@ -2,7 +2,7 @@
 - 👀 I’m interested in  ... Data science, and sofware development
 - 🌱 I’m currently learning ... phython and web design and development using html, css, php, wordpress, laravel, javascript and mysql
 - 💞️ I’m looking to collaborate on ... any project that helps me practice better
-- 📫 How to reach me ... @chosenking00@gmail.com
+- 📫 How to reach me ... @joshua.sofowora@gmail.com
 
 <!---
 chosenking1/chosenking1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
